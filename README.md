@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://fb.com/artur.spiewak.378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artur.spiewak.378" height="30" width="40" /></a>
 <a href="https://discord.gg/#8619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8619" height="30" width="40" /></a>
-<a>📫 **artur.spiewak2967@gmail.com**</a>
+<br>📫 **artur.spiewak2967@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
