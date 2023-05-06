@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Artur! 🙋‍♂️</h1>
-<h3 align="center">Something about me:</h3>
+<h3 align="left">Something about me:</h3>
 <p>I'm IT student from Poland with due passions programming and sport. </p>
 
 - 📫 **artur.spiewak2967@gmail.com**
