@@ -3,8 +3,6 @@
 <p>I'm IT student from Poland with due passions programming and sport. </p>
 
 - 📫 How to reach me **artur.spiewak2967@gmail.com**
-- 🔭 I’m currently working on **Mobile app using ASP .NET and Blazor**
-- 🌱 I’m currently learning **Advanced C#**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
